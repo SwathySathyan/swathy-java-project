@@ -1,4 +1,4 @@
-package compiletimepolymorphism;
+package compiletimepoly;
 
 public class Polymorphism { // Compile time polymorphism is same as method overloading.
 	
